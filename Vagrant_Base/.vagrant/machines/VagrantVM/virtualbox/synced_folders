@@ -1,1 +1,0 @@
-{"virtualbox":{"/temp/shared":{"guestpath":"/temp/shared","hostpath":"C:/Users/Laptop/Desktop/VagrantVM/shared","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/Laptop/Desktop/VagrantVM","disabled":false,"__vagrantfile":true}}}
