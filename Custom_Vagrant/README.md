@@ -16,9 +16,10 @@ Tools:<br />
 ## How to use it
 
 I assume you have Vagrant and VM installed already.<br />
-<strong>1. Create a folder:</strong> mkdir foldername (cmd)<br />
-<strong>2. Change Directory:</strong> cd foldername <br />
-<strong>3. Initialise Vagrant file:</strong> vagrant init <br />
+<strong>1. Create a folder:</strong> ```mkdir foldername``` (cmd)<br />
+<strong>2. Change Directory:</strong> ```cd foldername``` <br />
+<strong>3. Initialise Vagrant file:</strong> ```vagrant init``` <br />
 <strong>4. Customise Vagrant file:</strong> as it looks like in this repo (up to you how)<br />
-<strong>5. Start Vagrant:</strong> vagrant up<br />
+<strong>Note:</strong> make sure you have a "shared" folder in the root that contains java and maven as compressed files.<br />
+<strong>5. Start Vagrant:</strong> ```vagrant up```<br />
 <strong>6. Login details:</strong> vagrant vagrant
